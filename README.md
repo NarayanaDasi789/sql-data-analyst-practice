@@ -1,2 +1,12 @@
-# sql-data-analyst-practice
-SQL queries and interview-focused practice for Data Analyst role
+## SQL Practice for Data Analyst
+
+This repository contains SQL queries related to:
+- SELECT, WHERE, ORDER BY
+- GROUP BY, HAVING
+- JOINs (INNER, LEFT, RIGHT)
+- CASE, COALESCE
+- EXISTS, IN
+- Window Functions
+
+Goal: Build strong SQL skills for Data Analyst interviews.
+
